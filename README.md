@@ -1,1 +1,1 @@
-# Simple-RPG-Battle-Simulator
+# This program is a text-based battle game where you face off against an NPC. The player can choose to attack, block, or heal each turn, while the NPC counterattacks. The goal is to reduce the NPC's HP to zero without running out of HP yourself.
